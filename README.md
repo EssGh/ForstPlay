@@ -20,3 +20,7 @@ resolution media.
 - Subscription Management and Payment Integration: Experienced in managing website subscriptions, including setting up subscription 
 options, integrating third-party payment platforms, and automating payment processing. Successfully implemented systems to generate 
 subscription codes, providing users with secure and reliable access.
+
+![image alt]()
+![image alt]()
+![image alt]()
